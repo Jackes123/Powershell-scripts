@@ -4,6 +4,8 @@ If you wanna connect through service principal that is done in a few of these sc
 
 Short description of each script:
 
+
+
 **Azure_change_manager_of_employees:**
 This script can take a large group of people with an manager in azure called x and switch it to y. Only changes that needs to be made in the script is to input the old and new manager user principal name.
 
